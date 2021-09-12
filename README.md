@@ -1,5 +1,5 @@
 # ClearGlass
 A [ClearVision](https://github.com/ClearVision/ClearVision-v6) theme with Glasscord transparency effects for Powercord.
 
-![](https://i.imgur.com/QNjNEzr.gif)
+![](https://i.imgur.com/EHsIc3l.gif)
 
