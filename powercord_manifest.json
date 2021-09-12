@@ -1,0 +1,8 @@
+{
+  "name": "ClearGlass",
+  "description": "A ClearVision theme with Glasscord's transparency effects for Powercord.",
+  "version": "1.0",
+  "author": "Rikimbili",
+  "theme": "theme.css",
+  "license": "Apache License 2.0"
+}
