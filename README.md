@@ -12,6 +12,6 @@ Below you will see two ways to install Glasscord as well as how to install the t
 - Option 2: Manually install glasscord by following the instructions [here](https://github.com/AryToNeX/Glasscord/wiki/Installation)
 #### Theme
 - Open CMD or Powershell
-- 'cd' to your powercord folder and then type 'cd \src\Powercord\themes'
-- Finally, clone this repository by typing 'git clone https://github.com/Rikimbili/ClearGlass'
+- `cd` to your powercord folder and then type `cd \src\Powercord\themes`
+- Finally, clone this repository by typing `git clone https://github.com/Rikimbili/ClearGlass`
 
