@@ -7,6 +7,8 @@ A [ClearVision](https://github.com/ClearVision/ClearVision-v6) theme with Glassc
 This theme requires [Glasscord](https://github.com/AryToNeX/Glasscord) for the transparency effects. 
 Below you will see two ways to install Glasscord as well as how to install the theme itself
 
+#### Powercord
+- [Go here](https://powercord.dev/installation)
 #### Glasscord
 - Option 1: Download and execute the glasscord installer I made [here](https://github.com/Rikimbili/Glasscord-Installer-for-Discord) (Recommended)
 - Option 2: Manually install glasscord by following the instructions [here](https://github.com/AryToNeX/Glasscord/wiki/Installation)
