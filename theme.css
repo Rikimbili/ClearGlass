@@ -643,10 +643,6 @@
   margin-top: 22px;
   background-color: var(--background-unimain) !important;
 }
-/* Removes unnecessary margin */
-.container-3baos1 {
-  margin-bottom: 0px !important;
-}
 /* Sets correct opacity to small stream button */
 .button-14-BFJ.disabled-2iW-fm > .contents-18-Yxp > svg {
   opacity: 0.7;
@@ -657,10 +653,13 @@
   background: transparent !important;
 }
 
-
 /* Fixes */
 .scroller-zPkAnE {
   margin-top: 0px;
+}
+/* Typing box margin fix */
+.channelTextArea-rNsIhG {
+  margin-bottom: 16px;
 }
 /* Typing popup */
 .spinner-2enMB9, .loadingPopout-qYljDW {
