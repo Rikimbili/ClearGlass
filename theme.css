@@ -554,12 +554,13 @@
   background-color: transparent;
 }
 
+/* Chat Flyout */
 .wrapper-2aW0bm {
-  background-color: var(--background-primary-alt);
+  background-color: var(--background-unimain);
 }
 
 .searchResultMessage-2VxO12.hit-NLlWXA {
-  background-color: var(--background-primary-alt);
+  background-color: var(--background-unimain);
 }
 
 .scroller-zPkAnE {
