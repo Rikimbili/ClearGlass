@@ -346,9 +346,10 @@
 }
 /* Right Members sidebar */
 .membersWrap-2h-GB4 .members-1998pB {
-  background: none;
-  background-color: var(--background-unimain);
+  background-color: var(--background-unimain) !important;
 }
+
+
 
 /* Settings page */
 .standardSidebarView-3F1I7i {
@@ -413,6 +414,7 @@
 .applicationStore-1pNvnv .scrollerBase-289Jih {
   background-color: var(--background-unimain) !important;
 }
+
 /* Channel preview mode */
 .notice-3bPHh-{
   box-shadow: none !important;
@@ -468,9 +470,18 @@
   box-shadow: none;
 }
 
+/* Game library */
 .container-19hC9u:before {
   -webkit-box-shadow: none;
   box-shadow: none;
+}
+.scroller-2XE8rp.auto-Ge5KZx.scrollerBase-289Jih {
+	background-color: var(--background-unimain)
+}
+
+
+.container-19hC9u {
+	background-color: var(--background-unimain)
 }
 
 .container-xm7Ad0:before {
@@ -660,12 +671,13 @@
 }
 
 /* Fixes */
+/* Username/pfp global container */
+.container-3baos1 {
+	margin-bottom: 24px
+}
+
 .scroller-zPkAnE {
   margin-top: 0px;
-}
-/* Typing box margin fix */
-.channelTextArea-rNsIhG {
-  margin-bottom: 16px;
 }
 /* Typing popup */
 .spinner-2enMB9, .loadingPopout-qYljDW {
@@ -720,7 +732,8 @@
 /* Fixes end */
 /* CSS Snippets */
 /* Wiggle home btn */
-.homeIcon-FuNwkv:hover {
+.homeIcon-AaowEC:hover,
+.container-3baos1 .flex-1O1GKY > .button-14-BFJ:hover {
   animation: Home 0.7s infinite ease-in-out;
 }
 @keyframes Home {
