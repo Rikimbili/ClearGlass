@@ -1,4 +1,6 @@
+
 # ![](https://i.imgur.com/9mVggfc.png)
+## Transparency effects no longer working after a Discord update that changed the file structure and code enough for glasscord to break (Glasscord has also been discontinued by the creator)
 A [ClearVision](https://github.com/ClearVision/ClearVision-v6) theme with Glasscord transparency effects for Powercord.
 
 ![](https://i.imgur.com/EHsIc3l.gif)
